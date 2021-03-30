@@ -4,23 +4,11 @@ This is visualization system for supporting the process of deriving Partial Diff
 
 ### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+The python virtual environment should be built for repos.
+```
+(MacOS) python3 -m venv env
+```
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
 
 ### Environment ###
 ```
