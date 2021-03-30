@@ -1,0 +1,10 @@
+Flask==1.1.2
+Flask-Cors==3.0.9
+sklearn==0.0
+tensorflow==2.4.0
+pandas==1.2.0
+pyEDM==1.7.3.0
+PyIF==0.1
+numba==0.52.0
+nose==1.3.7
+nitime==0.9
