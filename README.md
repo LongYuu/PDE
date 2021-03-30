@@ -17,11 +17,13 @@ pip install -r requirements.txt
 ```
 
 ### Backend ###
+The backend source code is in *server* folder.
 ```
 flask run
 ```
 
 ### Frontend ###
+The frontend source code is built by following the process.
 ```
 npm install -g @vue/cli@3.7.0
 vue create client
